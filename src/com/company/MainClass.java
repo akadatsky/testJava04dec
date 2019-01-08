@@ -19,5 +19,9 @@ public class MainClass {
         return maxIndex;
     }
 
+    private static void test() {
+        System.out.println("Hello");
+    }
+
 
 }
