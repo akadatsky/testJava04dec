@@ -9,6 +9,7 @@ public class MainClass {
         System.out.println(maxIndex);
     }
 
+    // some method
     private static int getMaxIndex(int[] arr, int maxIndex) {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > arr[maxIndex]) {
